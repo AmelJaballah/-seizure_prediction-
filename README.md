@@ -96,4 +96,3 @@ MIT License – feel free to use and modify.
 - Built using TensorFlow, MNE, and PhysioNet datasets.
 - Inspired by epilepsy prediction research focusing on preictal detection.
 
-For questions, contact [your email or GitHub handle].
