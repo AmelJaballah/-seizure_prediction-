@@ -1,0 +1,10 @@
+numpy
+scipy
+mne
+wfdb
+tqdm
+h5py
+matplotlib
+seaborn
+scikit-learn
+tensorflow
